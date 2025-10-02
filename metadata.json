@@ -1,0 +1,5 @@
+{
+  "name": "3D printing Guiance Decision Flow",
+  "description": "A dynamic decision tree application that guides users through a flowchart. When a user reaches a conclusion, an AI-powered summary of their journey is generated using the Gemini API.",
+  "requestFramePermissions": []
+}
